@@ -1,0 +1,12 @@
+.idea/*
+.git/*
+script/*
+test/*
+composer.json
+composer.lock
+README.md
+phar.ignore
+.gitignore
+LICENSE
+vendor/liborm85/*
+assets/*
