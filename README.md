@@ -8,3 +8,5 @@ php -dphar.readonly=0 script\phar.php --in="path/to/Plugin" --out="path/to/plugi
 
 Works almost like .gitignore, you just need to add the name of the unwanted file or its patterns depending on how you want it.
 
+> **Important**
+> Hello :><br>
